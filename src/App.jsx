@@ -1,6 +1,7 @@
 import React from "react";
 import Card from "./Components/PriceCard/Card";
 
+
 const App = () => {
   const priceDetails = [
     {
